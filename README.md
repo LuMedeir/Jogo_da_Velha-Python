@@ -25,6 +25,10 @@ Para executar o jogo, siga os passos abaixo:
 4. O jogo termina quando um jogador vence ou quando todas as células do tabuleiro estão preenchidas, resultando em um empate.
 5. Para reiniciar o jogo, clique no botão "Restart" que aparece na parte inferior da tela, ou, quando acabar o jogo, apenas pressione qualquer tecla.
 
+<p align="center">
+<img src="./game/image/image2.png">
+</p>
+
 ## Testes
 Para executar os testes unitários do projeto, utilize o comando abaixo:
 ```bash
