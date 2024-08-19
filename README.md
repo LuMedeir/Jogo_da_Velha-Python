@@ -1,7 +1,9 @@
 # Jogo da Velha - Capim
-
-## Introdução
 Este projeto é uma implementação do clássico jogo da velha utilizando Python e a biblioteca Pygame. O jogo permite que dois jogadores se enfrentem em uma partida local, onde cada jogador alterna entre X e O até que haja um vencedor ou o tabuleiro fique cheio.
+
+<p align="center">
+<img src="./game/image/image.png">
+</p>
 
 ## Como Executar
 Para executar o jogo, siga os passos abaixo:
